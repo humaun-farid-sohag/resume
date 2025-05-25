@@ -1,4 +1,4 @@
-# Md. Humaun Farid Sohag – Professional Resume
+# Md. Humaun Farid Sohag 
 
 📍 **Pirganj, Rangpur - 5470**   
 📧 **Email:** [stat1910001brur@gmail.com](mailto:stat1910001brur@gmail.com)  
