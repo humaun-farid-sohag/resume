@@ -100,5 +100,5 @@ Driven by a passion for data, I aim to become a tech leader in the data science 
 
 ---
 
-📄 [**View Resume (PDF)**](https://yourusername.github.io/resume/resume.pdf)
+📄 [**View Resume (PDF)**](https://humaun-farid-sohag.github.io/resume/sohag.pdf)
 
