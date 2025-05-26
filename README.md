@@ -8,12 +8,13 @@
 </p>
 
 - 🔭 I’m currently working on [Upwork](https://www.upwork.com/freelancers/~012b4115aa6faf151a?mp_source=share)  
+- 📚 I'm working on my undergraduate thesis titled **"Assessing Digital Health Literacy and AI Awareness Among Health-Seeking Adults in Rangpur, Bangladesh"**, using **R**, **eHEALS**, **DHLI**, and **machine learning models (Lasso, RF, XGBoost)**  
 - 🌱 I’m currently learning **Data Science**  
 - 👯 I’m looking to collaborate on [remote job opportunities](https://www.linkedin.com/in/humaunfaridsohag/)  
 - 🤝 I’m open to projects involving **Design & Data Analysis**  
 - 👨‍💻 All of my code projects are available on [GitHub](https://github.com/humaun-farid-sohag)  
 - 🎨 My design portfolio is on [Behance](https://www.behance.net/tufany_designer)  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/humaunfaridsohag/)
+- 📫 How to reach me: [LinkedIn]([https://www.behance.net/tufany_designer](https://www.linkedin.com/in/humaunfaridsohag/)
 - 📄 Know more about my experience [here](https://github.com/humaun-farid-sohag)
 
 ---
@@ -35,7 +36,6 @@
 
 <h3 align="left">🛠️ Languages & Tools</h3>
 <p align="left">
-
   <!-- Design Tools -->
   <a href="https://www.photoshop.com/en" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
@@ -82,11 +82,6 @@
 </p>
 
 ---
-
-<h3 align="left">📊 GitHub Stats</h3>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=humaun-farid-sohag&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
 
 
 📄 [**View Resume (PDF)**](https://humaun-farid-sohag.github.io/resume/sohag.pdf)
