@@ -13,7 +13,7 @@
 - 🤝 I’m open to projects involving **Design & Data Analysis**  
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/humaun-farid-sohag)  
 - 🎨 My design portfolio is on [Behance](https://www.behance.net/tufany_designer)  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/humaunfaridsohag/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/humaunfaridsohag/) 
 - 📄 Know more about my experience [here](https://github.com/humaun-farid-sohag)
 
 ---
@@ -44,56 +44,38 @@
   </a>
 
   <!-- Data Visualization -->
-  <h3 align="left">🛠️ Languages & Tools</h3>
-<p align="left">
-
-  <!-- Design Tools -->
-  <a href="https://www.photoshop.com/en" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
-  </a>
-
-  <!-- Data Visualization -->
   <a href="https://powerbi.microsoft.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/>
   </a>
   <a href="https://www.tableau.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="40" height="40"/>
   </a>
   <a href="https://lookerstudio.google.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Google_Data_Studio_Logo.png/240px-Google_Data_Studio_Logo.png" alt="Looker Studio" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/google_data_studio/google_data_studio-icon.svg" alt="Looker Studio" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013_logo.svg" alt="Excel" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" alt="Excel" width="40" height="40"/>
   </a>
 
   <!-- Data & Stats -->
   <a href="https://www.ibm.com/products/spss-statistics" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/SPSS_Logo.svg" alt="SPSS" width="60" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/ibm-spss.svg" alt="SPSS" width="40" height="40"/>
+  </a>
+    <a href="https://www.r-project.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.r-project.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="40" height="40"/>
   </a>
 
   <!-- Databases -->
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
+
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
   </a>
-
 </p>
-
----
-
 
 📄 [**View Resume (PDF)**](https://humaun-farid-sohag.github.io/resume/sohag.pdf)
