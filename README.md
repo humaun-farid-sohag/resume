@@ -1,103 +1,34 @@
-# Md. Humaun Farid Sohag 
+<h1 align="center">Hi 👋, I'm MD Humaun Farid Sohag</h1>
+<h3 align="center">A versatile virtual assistant and data enthusiast blending design, statistics, and analysis with creativity.</h3>
 
-📍 **Pirganj, Rangpur - 5470**   
-📧 **Email:** [stat1910001brur@gmail.com](mailto:stat1910001brur@gmail.com)  
-🔗 **LinkedIn:** [humaunfaridsohag](https://www.linkedin.com/in/humaunfaridsohag/)  
+<p align="left"> <a href="https://twitter.com/tufanydesigner" target="blank"><img src="https://img.shields.io/twitter/follow/tufanydesigner?logo=twitter&style=for-the-badge" alt="tufanydesigner" /></a> </p>
 
----
+- 🔭 I’m currently working on [Upwork](https://www.upwork.com/freelancers/~012b4115aa6faf151a?mp_source=share)
 
-## 🎓 Educational Qualification
+- 🌱 I’m currently learning **Data Science**
 
-**Bachelor in Statistics**  
-📍 *Begum Rokeya University, Rangpur*  
-🗓️ *Session:* 2019–2020 | *Result:* 3.70/4.00 | *Passing Year:* 2023  
+- 👯 I’m looking to collaborate on [remote job opportunities](https://www.linkedin.com/in/humaunfaridsohag/)
 
-**HSC – Science**  
-📍 *Rangpur Government College*  
-🗓️ *Board:* Dinajpur | *Result:* 4.50/5.00 | *Year:* 2019  
+- 🤝 I’m looking for help with [Design & Analyst](I’m looking for help with)
 
-**SSC – Science**  
-📍 *Barudah High School, Pirganj, Rangpur*  
-🗓️ *Board:* Dinajpur | *Result:* 5.00/5.00 | *Year:* 2017  
+- 👨‍💻 All of my projects are available at [https://github.com/humaun-farid-sohag](https://github.com/humaun-farid-sohag)
 
----
+- 🎨 All of my design projects are available at [https://www.behance.net/tufany_designer](https://www.behance.net/tufany_designer)
 
-## 🔬 Research Interest
+- 📫 How to reach me **humaunfaridsohag@gmail.com**
 
-Data Science, Machine Learning, Big Data, Data Analysis, Digital Health, Visualization, Business Intelligence.
+- 📄 Know about my experiences [https://github.com/humaun-farid-sohag](https://github.com/humaun-farid-sohag)
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/tufanydesigner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tufanydesigner" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/humaunfaridsohag/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/humaunfaridsohag/" height="30" width="40" /></a>
+<a href="https://www.behance.net/https://www.behance.net/tufany_designer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/tufany_designer" height="30" width="40" /></a>
+</p>
 
-## 📑 Thesis Work
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-**Topic:** *Digital Health Literacy*  
-📌 Completed as part of BSc in Statistics
-
----
-
-## 💼 Experiences
-
-### 🔹 Data Analyst  
-**Upwork** (Dec 2024 – Present)  
-Key roles: Data analysis, visualization, business insights.
-
-### 🔹 Graphic Designer  
-**Upwork, Fiverr** (2020 – 2023)  
-Key roles: Print design, T-shirt design, branding.
-
-### 🔹 Data Entry & Lead Generation  
-**Upwork, Fiverr** (2019 – 2020)
-
----
-
-## 🧑‍🏫 Teaching & Courses
-
-Taught:  
-- Data Entry  
-- Graphic Design  
-- Data Analyst  
-- Data Structures  
-- Database  
-- Artificial Intelligence  
-- Machine Learning  
-- Advanced Data & Data Mining
-
----
-
-## 🏆 Co-Curricular Activities
-
-- Organized programming contests  
-- Member of IQAC (Institutional Quality Assurance Cell)  
-- Created course profiles & lesson plans  
-- Part of sports & event committees
-
----
-
-## 🧠 Personal Attributes
-
-- Self-motivated, punctual, and collaborative  
-- Quick to adapt and learn new tools  
-- Strong problem-solving mindset  
-
----
-
-## 💻 Technical Skills
-
-**Software:**  
-- Adobe Photoshop, Illustrator  
-- Microsoft Office, SPSS  
-- Power BI, Tableau, Looker Studio  
-
-**Languages:**  
-- SQL, R, Python  
-
----
-
-## 🌟 Career Objective
-
-Driven by a passion for data, I aim to become a tech leader in the data science field. I am pursuing a research-oriented path to sharpen my analytical and ML skills and contribute meaningfully to impactful, data-driven solutions in society and organizations.
-
----
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=humaun-farid-sohag&show_icons=true&locale=en&layout=compact" alt="humaun-farid-sohag" /></p>
 
 📄 [**View Resume (PDF)**](https://humaun-farid-sohag.github.io/resume/sohag.pdf)
-
