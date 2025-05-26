@@ -8,13 +8,12 @@
 </p>
 
 - 🔭 I’m currently working on [Upwork](https://www.upwork.com/freelancers/~012b4115aa6faf151a?mp_source=share)  
-- 📚 I'm working on my undergraduate thesis titled **"Assessing Digital Health Literacy and AI Awareness Among Health-Seeking Adults in Rangpur, Bangladesh"**, using **R**, **eHEALS**, **DHLI**, and **machine learning models (Lasso, RF, XGBoost)**  
 - 🌱 I’m currently learning **Data Science**  
 - 👯 I’m looking to collaborate on [remote job opportunities](https://www.linkedin.com/in/humaunfaridsohag/)  
 - 🤝 I’m open to projects involving **Design & Data Analysis**  
 - 👨‍💻 All of my code projects are available on [GitHub](https://github.com/humaun-farid-sohag)  
 - 🎨 My design portfolio is on [Behance](https://www.behance.net/tufany_designer)  
-- 📫 How to reach me: [LinkedIn]([https://www.behance.net/tufany_designer](https://www.linkedin.com/in/humaunfaridsohag/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/humaunfaridsohag/)
 - 📄 Know more about my experience [here](https://github.com/humaun-farid-sohag)
 
 ---
