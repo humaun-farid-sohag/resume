@@ -2,8 +2,8 @@
 <h3 align="center">A versatile virtual assistant and data enthusiast blending design, statistics, and analysis with creativity.</h3>
 
 <p align="center">
-  <a href="https://twitter.com/tufanydesigner" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/tufanydesigner?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  <a href="https://www.linkedin.com/in/humaunfaridsohag/" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20on-LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Follow" />
   </a>
 </p>
 
@@ -13,18 +13,18 @@
 - 🤝 I’m open to projects involving **Design & Data Analysis**  
 - 👨‍💻 All of my code projects are available on [GitHub](https://github.com/humaun-farid-sohag)  
 - 🎨 My design portfolio is on [Behance](https://www.behance.net/tufany_designer)  
-- 📫 How to reach me: **humaunfaridsohag@gmail.com**  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/humaunfaridsohag/)
 - 📄 Know more about my experience [here](https://github.com/humaun-farid-sohag)
 
 ---
 
 <h3 align="left">🔗 Connect with me</h3>
 <p align="left">
-  <a href="https://twitter.com/tufanydesigner" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
   <a href="https://www.linkedin.com/in/humaunfaridsohag/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/tufanydesigner" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
   <a href="https://www.behance.net/tufany_designer" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance" height="30" width="40" />
@@ -87,5 +87,6 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=humaun-farid-sohag&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
+
 
 📄 [**View Resume (PDF)**](https://humaun-farid-sohag.github.io/resume/sohag.pdf)
